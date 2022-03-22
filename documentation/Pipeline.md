@@ -64,3 +64,9 @@ npm run backend:deploy
 ##### Diagram for our Pipeline and how it works
 
 ![alt text](https://github.com/david-wagih/DeploymentProject/blob/master/images/pipelineFlow.png?raw=true)
+
+##### ScreenShots from CircleCi with the latest build done and it is successfull
+
+![alt text](https://github.com/david-wagih/DeploymentProject/blob/master/images/lastBuild1.jpg?raw=true)
+![alt text](https://github.com/david-wagih/DeploymentProject/blob/master/images/lastBuild2.jpg?raw=true)
+![alt text](https://github.com/david-wagih/DeploymentProject/blob/master/images/lastBuild3.jpg?raw=true)
