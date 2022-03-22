@@ -42,5 +42,6 @@ workflows:
       - build_and_deploy:
           filters:
             branches:
-              only: -master
-                -main
+              only:
+                - master
+                - main
