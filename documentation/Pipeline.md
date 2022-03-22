@@ -69,4 +69,3 @@ npm run backend:deploy
 
 ![alt text](https://github.com/david-wagih/DeploymentProject/blob/master/images/lastBuild1.jpg?raw=true)
 ![alt text](https://github.com/david-wagih/DeploymentProject/blob/master/images/lastBuild2.jpg?raw=true)
-![alt text](https://github.com/david-wagih/DeploymentProject/blob/master/images/lastBuild3.jpg?raw=true)
